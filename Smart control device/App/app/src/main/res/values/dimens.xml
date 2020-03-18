@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="appNameTextSize">25dp</dimen>
+
+    //Control
+    <dimen name="titleMargin">10dp</dimen>
+    <dimen name="imgMarginTop">50dp</dimen>
+    <dimen name="imgSize">100dp</dimen>
+
+    //Item Option
+    <dimen name="imgOptionSize">30dp</dimen>
+    <dimen name="tvOptionTextSize">15dp</dimen>
+    <dimen name="tvOptionMarginTop">3dp</dimen>
+    <dimen name="tvOptionMarginLeft">20dp</dimen>
+
+    //Item Header
+    <dimen name="backgroundHeaderHeight">150dp</dimen>
+    <dimen name="imgAvatarSize">100dp</dimen>
+    <dimen name="imgAvatarMarginTop">15dp</dimen>
+    <dimen name="tvEmailTextSize">18dp</dimen>
+    <dimen name="tvEmailWidth">160dp</dimen>
+
+    //Item Title
+    <dimen name="titleMarginTitle">5dp</dimen>
+</resources>
