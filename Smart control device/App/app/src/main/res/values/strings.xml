@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Device Control</string>
+    <string name="log_in_system">Log in system</string>
+
+    <string name="numberone">Number One</string>
+    <string name="numberTwo">Number Two</string>
+    <string name="login"><u>Login</u></string>
+</resources>
