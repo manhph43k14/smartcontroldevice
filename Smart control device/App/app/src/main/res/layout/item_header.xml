@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/backgroundHeaderHeight"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgAvatar"
+        android:layout_width="@dimen/imgAvatarSize"
+        android:layout_height="@dimen/imgAvatarSize"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/imgAvatarMarginTop"
+        android:src="@drawable/avt_header" />
+
+    <TextView
+        android:id="@+id/tvEmail"
+        android:layout_width="@dimen/tvEmailWidth"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:drawableRight="@drawable/ic_arrow_drop_down_white_36dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="admin@gmail.com"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/tvEmailTextSize"
+        tools:ignore="SpUsage" />
+</LinearLayout>
